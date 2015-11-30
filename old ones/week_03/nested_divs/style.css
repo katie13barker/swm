@@ -1,0 +1,155 @@
+html {
+	box-sizing: border-box;
+}
+body {
+
+	font-size: 16px;
+	line-height: 1.3;
+	font-family: helvetica, sans-serif;
+}
+
+.one{
+	padding: 25px;
+	background: #fa0101;
+}
+.two{
+	padding: 24px;
+	background: #ec5a13;
+}
+.three{
+	padding: 23px;
+	background: #ec8313; 
+}
+.four{
+	padding: 22px;
+	background: #ecac13;
+}
+.five{
+	padding: 21px;
+	background: #ece413;
+}
+.six{
+	padding: 20px;
+	background: #92ec13;
+}
+.seven{
+	padding: 19px;
+	background: #3bec13;
+}
+.eight{
+	padding: 18px;
+	background: #13ec2c;
+}
+.nine{
+	padding: 17px;
+	background: #13ec7e;
+}
+.ten{
+	padding: 16px;
+	background: #13ecc6;
+}
+.eleven{
+	padding: 15px;
+	background: #13c6ec;
+}
+.tweleve{
+	padding: 14px;
+	background: #13a2ec;
+}
+.thirteen{
+	padding: 13px;
+	background: #1374ec;
+}
+.fourteen{
+	padding: 12px;
+	background: #1346ec;
+}
+.fifteen{
+	padding: 11px;
+	background: #3613ec;
+}
+.sixteen{
+	padding: 10px;
+	background: #6413ec;
+}
+.seventeen{
+	padding: 9px;
+	background: #9213ec;
+}
+.eighteen{
+	padding: 8px;
+	background: #c013ec;
+}
+.nineteen{
+	padding: 7px;
+	background: #e913ec;
+}
+.twenty-one{
+	padding: 6px;
+	background: #ec13bb;
+}
+.twenty-two{
+	padding: 5px;
+	background: #ec1374;
+}
+.twenty-three{
+	padding: 4px;
+	background: #ec1355;
+}
+.twenty-four{
+	padding: 3px;
+	background: #ec1313;
+}
+.twenty-five{
+	padding: 2px;
+	background: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*style for tablet and above*/
+
+@media (min-width: 760px;) {
+	.company-name {
+		font-size: 3rem;
+
+	}
+	.page-content .container {
+	width: 760px;
+	margin: 0 auto;
+	background: #fff;
+	}
+}
+
+/* styles for desktop*/
+@media (min-width: 1000px;) {
+	.page-content{
+		background: blue;
+	}
+	.page-content.container{
+		width: 1000px;
+
+	}
+	.feature{
+		float: left;
+		width: 50%;
+	}
+	.feature:nth-child(2n+1){
+		clear: left;
+	}
+	.feature-list:after {
+	clear: both;
+	content: '';
+	display: table; /* IE 8 compatability */
+}
+
+}

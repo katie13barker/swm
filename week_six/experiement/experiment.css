@@ -1,0 +1,29 @@
+
+.body {
+	background: #F5F6CE;
+}
+
+.fieldset {
+	width: 550px;
+}
+
+.legend {
+	font-size: 40px;
+}
+
+label.field {
+	text-align: right;
+	width: 100px;
+	float: left;
+	font-weight: bold;
+}
+
+.input.textbox	{
+	width: 300px;
+	float: left;
+}
+
+.fieldset p {
+	clear: both;
+	padding: 5px;
+}
