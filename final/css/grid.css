@@ -1,0 +1,95 @@
+/*Grid */
+
+
+.container {
+  max-width: 100%;
+}
+
+.row {
+  clear: both;
+  display: block;
+  width: 100%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+
+.column {
+  box-sizing: border-box;
+  display: block;
+  float: left;
+  width: 100%;
+}
+
+
+@media (min-width: 480px) {
+
+  .column.quarter, .column.eighth, .column.twelfth {
+    width: 50%;
+  }
+
+}
+
+
+
+@media (min-width: 641px) {
+
+
+
+  .column.half {
+    width: 50%;
+  }
+
+  .column.third {
+    width: calc(100%/3);
+  }
+
+  .column.quarter, .column.eighth, .column.twelfth {
+    width: 25%;
+  } 
+
+}
+
+
+
+@media (min-width: 960px) {
+
+  .container {
+    max-width: 940px;
+  }
+
+  
+
+  .column.eighth {
+    width: calc(100%/8);
+  }
+
+  .column.twelfth {
+    width: calc(100%/12);
+  }
+
+}
+
+
+
+@media (min-width: 1441px) { 
+
+  .container {
+    max-width: 1400px;
+  }
+
+}
+
+
+@media (min-width: 1921px) { 
+
+  .container {
+    max-width: 1800px;
+  }
+
+}
