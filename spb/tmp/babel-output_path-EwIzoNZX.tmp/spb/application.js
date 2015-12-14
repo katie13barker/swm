@@ -1,0 +1,1 @@
+define("spb/application", ["exports"], function (exports) {});

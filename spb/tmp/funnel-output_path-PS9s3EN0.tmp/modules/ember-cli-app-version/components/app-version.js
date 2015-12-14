@@ -1,0 +1,1 @@
+/Users/Kates/spb/tmp/funnel-input_base_path-2C4ZXxnp.tmp/0/components/app-version.js

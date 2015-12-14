@@ -1,0 +1,1 @@
+/Users/Kates/spb/tmp/reexporter-output_path-laPfkUMn.tmp/reexports/ember-cli-app-version.js

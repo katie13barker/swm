@@ -1,0 +1,1 @@
+/Users/Kates/spb/tmp/broccoli_merge_trees-input_base_path-WGj27iWn.tmp/0/modules/ember-cli-app-version/initializer-factory.js

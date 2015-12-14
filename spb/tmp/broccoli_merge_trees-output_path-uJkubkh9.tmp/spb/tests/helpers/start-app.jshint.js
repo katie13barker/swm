@@ -1,0 +1,1 @@
+/Users/Kates/spb/tmp/broccoli_merge_trees-input_base_path-vBiihlvQ.tmp/2/spb/tests/helpers/start-app.jshint.js

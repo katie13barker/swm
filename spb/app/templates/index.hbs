@@ -1,0 +1,18 @@
+<form id="form" {{action "login" on="submit"}}>
+
+  <label for="username">Username</label>
+    {{input value=username type="text"}}
+    <br>
+  <label for="username">Password</label>
+    {{input value=password type="password"}}
+  {{#if isClicked}}
+  <button {{action 'onClick' 'isClicked'}}>Submit</button>
+   <button id="myBtn">Submit</button>
+   {{else}}
+   <button {{action 'onClick' 'isClicked'}}>Submit</button>
+{{/if}}
+
+</form>
+
+
+{{outlet}}

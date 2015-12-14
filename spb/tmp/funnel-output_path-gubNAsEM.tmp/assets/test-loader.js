@@ -1,0 +1,1 @@
+/Users/Kates/spb/tmp/funnel-input_base_path-nRMZ9O8B.tmp/0/bower_components/ember-cli-test-loader/test-loader.js
