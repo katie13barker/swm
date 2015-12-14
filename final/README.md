@@ -1,0 +1,3 @@
+For my final I tried to use Ember. My entire family stayed at away from me for a week because I was having a meltdown. Ember is a pain in the ass. I can teach myself lots of things, so I spent a day watching tutorials on Ember for 9 hours… Ember sucks. There is a huge disconnect between folders and routes all your crap to different folders and finding those folders takes thirty minutes. 
+
+My presentation will explain everything. I’m beyond frustrated with Ember.
